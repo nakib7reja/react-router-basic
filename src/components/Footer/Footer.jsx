@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
     return (
         <div>
-            <p>all rights are reserved</p>
+            <p>All rights reserved</p>
         </div>
     )
 }
