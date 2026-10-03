@@ -6,7 +6,7 @@ import SideBar from '../SideBar/SideBar'
 
 const Root = () => {
   return (
-    <div className='bg-green-100 pt-10 h-screen text-center'>
+    <div className='pt-10 text-center'>
       <Header></Header>
       <div className='w-[30%] mx-auto flex justify- gap-10'>
         <SideBar></SideBar>
